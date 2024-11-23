@@ -12,7 +12,8 @@ Ayrıca, gelecekteki satış tahminleri için **Prophet modeli** gibi zaman seri
    - GitHub: [github.com/ardahanaytan](https://github.com/ardahanaytan)
 2. **Yağmur Aktaş**  
    - GitHub: [github.com/yamuraktas](https://github.com/yamuraktas)
-https://www.kaggle.com/code/ardahanaytan/veri-analizi-bootcamp?scriptVersionId=209232651
+3. **Kaggle**
+   - https://www.kaggle.com/code/ardahanaytan/veri-analizi-bootcamp?scriptVersionId=209232651
 ---
 
 ## Veri Seti
